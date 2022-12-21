@@ -1,0 +1,7 @@
+encrypt:
+#  key: iloveyoujesus0303
+  key-store:
+#    location: file:///C:\\study\\keystore\\encryptKey.jks
+    location: file:/encryptKey.jks
+    password: test1234
+    alias: encryptKey
